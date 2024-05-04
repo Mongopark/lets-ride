@@ -1,0 +1,16 @@
+export { default as VerificationDetails } from "./VerificationDetails";
+export { default as ChatWithSupport } from "./ChatWithSupport";
+export { default as DeleteAccount } from "./DeleteAccount";
+export { default as Faq } from "./Faq";
+export { default as PersonalDetails } from "./PersonalDetails";
+export { default as ProfileScreen } from "./ProfileScreen";
+export { default as Wallet } from "./Wallet";
+export { default as ChangePhoneNumber } from "./changePhoneNumber/ChangePhoneNumber";
+export { default as ChangePassword } from "./changePassword/ChangePassword";
+export { default as ConfirmWithdrawal } from "./wallet/ConfirmWithdrawal";
+export { default as WithDrawalSuccessful } from "./wallet/WithDrawalSuccessful";
+export { default as ChangePhoneOtp } from "./changePhoneNumber/ChangePhoneOtp";
+export { default as PhoneChangedSuccess } from "./changePhoneNumber/PhoneChangedSuccess";
+export { default as ChangePasswordOtp } from "./changePassword/ChangePasswordOtp";
+export { default as PasswordChangedSuccess } from "./changePassword/PasswordChangedSuccess";
+export { default as FaqDetail } from "./FaqDetail";
